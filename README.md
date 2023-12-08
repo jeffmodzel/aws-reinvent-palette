@@ -1,9 +1,9 @@
 # aws-reinvent-palette
-Colors palette (css) utilizing AWS re:Invent colors
+Colors palette (css) utilizing AWS re:Invent colors.
 
 This is a personal project to create a css file based upon AWS re:Invent colors and usable with W3.CSS.
 
-This is based upon a color pallet created by Adrian Simionov.
+Based upon a color palette created by Adrian Simionov.
 
 ![aws palette](aws-palette.png)
 
